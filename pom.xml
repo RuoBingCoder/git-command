@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github</groupId>
-    <artifactId>spring-boot-git-commond</artifactId>
+    <artifactId>spring-boot-git-command</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-git-commond</name>
-    <description>spring-boot-git-commond</description>
+    <name>spring-boot-git-command</name>
+    <description>spring-boot-git-command</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
