@@ -12,4 +12,7 @@ package com.github.springboot.git.commond.service;
 public interface FooService {
 
     String test01();
+
+
+    Integer test02();
 }
